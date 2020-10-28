@@ -2,7 +2,7 @@ package backend.command;
 
 /**
  * Command for Command design pattern.
- * @author mukrram
+ * 
  *
  */
 public interface Command {
